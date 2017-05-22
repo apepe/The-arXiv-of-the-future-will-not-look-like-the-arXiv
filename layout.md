@@ -2,10 +2,8 @@ untitled.html
 figures/preprints1/preprints1.png
 2284.html
 12225.html
-b6c8.html
-51e.html
+10926.html
 16740.html
-cckihjtdhu.html
 a5td0cv4r68.html
 u1c300h53lo.html
 0alqpgqtf3o.html
