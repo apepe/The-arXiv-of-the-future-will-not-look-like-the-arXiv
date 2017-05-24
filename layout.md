@@ -1,6 +1,5 @@
 untitled.html
 13cf3.html
-1025c.html
 figures/preprints1/preprints1.png
 2284.html
 12225.html
