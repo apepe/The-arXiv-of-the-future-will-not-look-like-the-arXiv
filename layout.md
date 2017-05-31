@@ -1,5 +1,4 @@
 untitled.html
-13cf3.html
 2284.html
 figures/preprint_inset1/preprint_inset1.png
 8e88.html
