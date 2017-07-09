@@ -1,9 +1,20 @@
 ---
+version: 2
 multicolumn: false
-export-width: 
 web-width: 900px
+export-width: 
 align: center
 float: h!
-export-filename: 
-version: 1
-path: figures/preprint_inset1/config.yml
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - url: "/users/3/articles/173764/master/file/figures/preprint_inset1/preprint_inset.png"
+    path: figures/preprint_inset1/preprint_inset.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
